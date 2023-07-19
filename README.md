@@ -1,4 +1,5 @@
-# ✨Hack2Skill Assignment✨
+# ✨Hack2Skill Assignment✨ <div align= "right">![H2S](https://github.com/Shubhamverma94/Hack2Skill-Assignment/assets/103638279/0e2c2a2f-51fe-4337-93d7-4e872f903e91)</div>
+
 
 ---
 
